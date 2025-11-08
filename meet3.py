@@ -1,0 +1,25 @@
+#will will lear aboutdata type
+
+x = 10 # bilangan bulat ( integer)
+print("nilai dari x =", x)
+print("tipe data dari x =", type(x))
+
+
+y = 12.5 # bilangan pecahan (float)
+print("nilai dari y = ", y)
+print("tipe data dari y = ", type(y))
+
+ukuran = "xxl" # tipe data (string)
+print("nilai dari ukuran  =", ukuran)
+print("tipe data dari ukuran =" , tipe(ukuran))
+
+kebenaran = True # tipe data boolean (true false)
+print("nilai dari kebenaran =", kebenaran)
+print("tipe data dari kebenaran =" , tipe(kebenaran)) 
+
+
+
+
+
+
+
